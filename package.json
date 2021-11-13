@@ -1,0 +1,23 @@
+{
+  "name": "heroku_dryrun",
+  "version": "1.0.0",
+  "description": "Heroku Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopal-bala/heroku_dryrun.git"
+  },
+  "keywords": [
+    "heroku",
+    "database"
+  ],
+  "author": "Gopal Balasubramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopal-bala/heroku_dryrun/issues"
+  },
+  "homepage": "https://github.com/gopal-bala/heroku_dryrun#readme"
+}
